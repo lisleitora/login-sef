@@ -4,8 +4,10 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="form" expanded="True" selected="True">
-            <Node name="form" expanded="True" />
+          <Node name="form" expanded="True">
+            <Node name="form" expanded="True">
+              <Node name="MainPage.xaml" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
