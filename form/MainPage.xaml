@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="form.MainPage"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
+    <Grid BackgroundColor="LightGray" RowDefinitions="*,*,*">
+
+        <Image
+            Grid.Row="0"
+            Margin="50"
+            Source="sef.png"
+            VerticalOptions="CenterAndExpand" />
+        <StackLayout
+            Grid.Row="1"
+            Margin="20,0"
+            Padding="18,18,18,18"
+            BackgroundColor="LightBlue"
+            VerticalOptions="Center">
+            <Label Margin="0,0,0,0" Text="Login:" />
+            <Entry />
+            <Label Margin="0,20,0,0" Text="Senha:" />
+            <Entry />
+            <StackLayout Margin="0,20,0,0" Orientation="Horizontal">
+                <Switch OnColor="DeepSkyBlue" />
+                <Label Text="Lembrar senha" VerticalOptions="Center" />
+            </StackLayout>
+        </StackLayout>
+
+        <StackLayout
+            Grid.Row="2"
+            Margin="20"
+            VerticalOptions="End">
+            <Button
+                Margin="0,20,0,0"
+                BackgroundColor="DarkBlue"
+                Text="Entrar" />
+
+            <Button Text="Aceitar os termos" />
+        </StackLayout>
+
+    </Grid>
+</ContentPage>
