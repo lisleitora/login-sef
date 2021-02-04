@@ -1,22 +1,17 @@
-﻿<Properties StartupConfiguration="{3F0F323B-D3E5-4B9D-9C4A-A1499EBA42AF}|Default">
+﻿<Properties GitUserInfo="UsingMD" StartupConfiguration="{3F0F323B-D3E5-4B9D-9C4A-A1499EBA42AF}|Default">
   <MonoDevelop.Ide.ItemProperties.form.Android FirstBuild="True" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
   <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="form" expanded="True">
-            <Node name="form" expanded="True">
-              <Node name="GettingStarted" selected="True" />
-            </Node>
-            <Node name="form.iOS" expanded="True">
-              <Node name="Resources" expanded="True" />
-            </Node>
+          <Node name="form" expanded="True" selected="True">
+            <Node name="form" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.form.iOS TriggeredFromHotReload="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.62209ED0-58B0-47E7-9623-68458F1E069E" />
+  <MonoDevelop.Ide.ItemProperties.form.iOS TriggeredFromHotReload="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.AA5481AD-EC28-4AC7-9FBC-77D32A4D1225" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

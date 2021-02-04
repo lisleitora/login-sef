@@ -50,10 +50,10 @@
 /Users/macbookpro15/Projects/form/form.iOS/obj/iPhoneSimulator/Debug/form.iOS.csproj.CopyComplete
 /Users/macbookpro15/Projects/form/form.iOS/obj/iPhoneSimulator/Debug/form.iOS.exe
 /Users/macbookpro15/Projects/form/form.iOS/obj/iPhoneSimulator/Debug/form.iOS.pdb
-/Users/macbookpro15/Projects/form/form.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.4/ibtool/_BundleResourceWithLogicalName.items
-/Users/macbookpro15/Projects/form/form.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.4/actool/_PartialAppManifest.items
-/Users/macbookpro15/Projects/form/form.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.4/actool/_BundleResourceWithLogicalName.items
-/Users/macbookpro15/Projects/form/form.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.4/coremlc/_PartialAppManifest.items
-/Users/macbookpro15/Projects/form/form.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.4/coremlc/_BundleResourceWithLogicalName.items
-/Users/macbookpro15/Projects/form/form.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.4/optimized/sef.png
-/Users/macbookpro15/Projects/form/form.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.4/optimized/
+/Users/macbookpro15/Projects/form/form.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/ibtool/_BundleResourceWithLogicalName.items
+/Users/macbookpro15/Projects/form/form.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/actool/_PartialAppManifest.items
+/Users/macbookpro15/Projects/form/form.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/actool/_BundleResourceWithLogicalName.items
+/Users/macbookpro15/Projects/form/form.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/coremlc/_PartialAppManifest.items
+/Users/macbookpro15/Projects/form/form.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/coremlc/_BundleResourceWithLogicalName.items
+/Users/macbookpro15/Projects/form/form.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/sef.png
+/Users/macbookpro15/Projects/form/form.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/

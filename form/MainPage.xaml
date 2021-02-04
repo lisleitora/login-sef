@@ -7,13 +7,13 @@
 
         <Image
             Grid.Row="0"
-            Margin="50"
+            Margin="80"
             Source="sef.png"
             VerticalOptions="CenterAndExpand" />
         <StackLayout
             Grid.Row="1"
-            Margin="20,0"
-            Padding="18,18,18,18"
+            Margin="25,0"
+            Padding="2"
             BackgroundColor="LightBlue"
             VerticalOptions="Center">
             <Label Margin="0,0,0,0" Text="Login:" />
