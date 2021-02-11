@@ -7,7 +7,7 @@
 
         <Image
             Grid.Row="0"
-            Margin="90"
+            Margin="80"
             Source="sef.png"
             VerticalOptions="CenterAndExpand" />
         <StackLayout
